@@ -6,6 +6,8 @@ A variety of algorithms to solve mazes from an input image.
 ## About
 These are the python files associated with the computerphile video on maze solving. Feel free to use, alter, redistribute the code as you see fit.
 
+I'm not actively developing this project, simply for time reasons. Mostly I want the code to be as it was (at least in general function) at the time of the video. If you're interested in improving the code, then you can fork it into your own repository and make any changes you wish. If you come up with something good, feel free to share it on the [wiki](https://github.com/mikepound/mazesolving/wiki), thanks to Jacob Mitchell for starting that.
+
 ## Input
 Some example mazes are included in the repository. These were generated either by hand, or using the software [Daedalus](http://www.astrolog.org/labyrnth/daedalus.htm). Once exported I edited the mazes to ensure that the following rules are adhered to:
 
